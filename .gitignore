@@ -1,0 +1,7 @@
+*.html
+*.csv
+*.json
+*.pkl
+__pycache__/
+my_wechat_crawler/
+.DS_Store
